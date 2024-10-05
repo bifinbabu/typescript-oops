@@ -64,3 +64,6 @@ class NewDog extends Canine {
 }
 
 class wolf extends Canine {}
+
+const newDog = new NewDog();
+// newDog.
